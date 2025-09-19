@@ -1,0 +1,10 @@
+python-dotenv==1.1.1
+pytesseract==0.3.13
+pillow==11.1.0
+python-docx==1.2.0
+pandas==2.2.3
+langchain==0.3.27
+langchain-openai==0.3.33
+python-magic==0.4.27
+tqdm==4.67.1
+scikit-learn==1.7.0
