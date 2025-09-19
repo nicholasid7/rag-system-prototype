@@ -1,0 +1,9 @@
+.git
+.cache
+.mypy_cache
+.idea
+# Environments
+.venv
+venv
+__pycache__
+*.tgz
